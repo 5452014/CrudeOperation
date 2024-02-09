@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CrudeOperation/static/css/main.f855e6bc.css",
+    "main.js": "/CrudeOperation/static/js/main.1087816c.js",
+    "index.html": "/CrudeOperation/index.html",
+    "main.f855e6bc.css.map": "/CrudeOperation/static/css/main.f855e6bc.css.map",
+    "main.1087816c.js.map": "/CrudeOperation/static/js/main.1087816c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1087816c.js"
+  ]
+}
